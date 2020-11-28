@@ -1,0 +1,26 @@
+{
+  "name": "node-list",
+  "version": "1.0.0",
+  "description": "Command that prints out files and folders in current directory, or if given a path - in relative or absolute path. Created with The Modern JavaScript Bootcamp Course (code-along).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/En-Jen/node-tool.git"
+  },
+  "keywords": [],
+  "author": "Jen Speak",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/En-Jen/node-tool/issues"
+  },
+  "homepage": "https://github.com/En-Jen/node-tool#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
